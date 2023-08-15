@@ -57,7 +57,7 @@ app.listen(3000, function() {
 
 ```json
 {
-    "_id" : "5c18e1892998bdb3b3d355bf",
+    "_id" : ObjectId("5c18e1892998bdb3b3d355bf"),
     "title" : "REST",
     "content" : "REST is short for REpresentational State Transfer. IIt's an architectural style for designing APIs."
 }
